@@ -17,3 +17,5 @@ while True:
     if message.strip() == "Bye":
         print("GOD : Bye")
         break
+#https://github.com/gunthercox/chatterbot-corpus
+#https://chatterbot.readthedocs.io/en/latest/corpus.html
