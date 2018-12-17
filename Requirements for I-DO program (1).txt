@@ -1,0 +1,13 @@
+﻿These are the requirements for  the I-DO program:
+Chatterbot
+Twitter API 
+Pyglet
+Colorsys
+Math 
+Os
+Tkinter
+Time
+Numpy
+Pyaudio
+Wave
+Sys
